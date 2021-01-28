@@ -1,19 +1,26 @@
 /* Section 1 Begins */
-nav{
-    width: 100%;
-    overflow: auto; 
+.nav-item{
+    font-family: 'Cabin', sans-serif;   
 }
+
+.navbar{
+     margin-top: -5px;  
+    border-bottom: 1px solid rgb(31, 105, 165);
+     padding-left: 49rem;
+}
+
+
 
 button{
     margin-left: 0px;
 }
 
-.logo img {
+/* .logo img {
     position: absolute;
     margin-top: -5px;
     margin-left: 80px;
 
-}
+} */
 
  .logo2 { 
       padding-left: 1310px;
@@ -207,12 +214,24 @@ h1{
    }
 }
 
+.footer {
+    background-color:#212529;
+    position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: -1rem;
+  text-align: center;
+  
+}
+
 /* Sections 2 Ends */
 /*Image Gallary Begins */
 .slider{
     width: 700px;
     height: 400px;
     overflow: hidden;
+    box-shadow: 0 10px 20px rgb(31, 105, 165);
 }
 
 .middle{
