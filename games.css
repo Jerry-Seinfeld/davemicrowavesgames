@@ -1,42 +1,38 @@
 /* navbar begin */
 .nav-item{
-    font-family: 'Roboto', sans-serif;
+   font-family: 'Roboto', sans-serif;
+    
 }
 
 .navbar{
-     margin-top: -5px;  
+     margin-top: -1px;  
     /* border-bottom: 1px solid rgb(31, 105, 165); */
-     padding-left: 46rem;
+     padding-left: 46rem
 }
 /* navbar end */
-.logo2 { 
-    padding-left: 1310px;
-  padding-top: 620px;  
-} 
 
- .arrow {
-   position: relative; 
-   padding-left: 49%;
-   padding-top: 8%;  
+
+ .dave {
+   padding-left: 44%;
+   padding-top: 4%;   
 }  
 /* Portfolio Begin */
 
 .mygames{
    position: absolute;
-   left: 41%;
-   top: 5%;
-   color: rgb(252, 252, 252);
-   font-family: 'Oxygen', sans-serif;
+   right: 35%;
+   bottom: 70%;
+   color: rgb(255, 255, 254);
+   font-family: 'Bungee Shade', cursive;
     letter-spacing: 1px;
     padding: 1rem 5rem;
-    font-size: 5rem;
-    text-shadow: #030202;
+    text-shadow: 1px 1px rgb(0, 0, 0);
     
 }
 
-.gameimage1{
+.gameimage1 {
    position: absolute;
-    margin-top: 5%;
+    margin-top: 51%;
     left: 1%;
     font-family: 'Roboto Slab', serif;
     color: rgb(255, 255, 255);
@@ -44,7 +40,7 @@
 }
 .gameimage2{
    position: absolute;
-    margin-top: 5%;
+    margin-top: 51%;
     left: 57%;
     font-family: 'Roboto Slab', serif;
     color: rgb(255, 255, 255);
@@ -53,7 +49,7 @@
 
 .gameimage3{
    position: absolute;
-    margin-top: 50%;
+    margin-top: 6%;
     left: 1%;
     font-family: 'Roboto Slab', serif;
     color: rgb(255, 255, 255);
@@ -62,7 +58,7 @@
 
    .gameimage4{
       position: absolute;
-       margin-top: 50%;
+       margin-top: 6%;
        left: 57%;
        font-family: 'Roboto Slab', serif;
        color: rgb(255, 255, 255);
@@ -71,7 +67,7 @@
 
       .gameimage5{
          position: absolute;
-          margin-top: 80%;
+          margin-top: 101%;
           left: 1%;
           font-family: 'Roboto Slab', serif;
           color: rgb(255, 255, 255);
@@ -80,17 +76,33 @@
 
          .gameimage6{
             position: absolute;
-             margin-top: 80%;
+             margin-top: 101%;
              left: 57%;
              font-family: 'Roboto Slab', serif;
              color: rgb(255, 255, 255);
              text-shadow: 1px 1px rgb(0, 0, 0);
             }
+
+            .gameimage7{
+               position: absolute;
+                margin-top: 136%;
+                left: 1%;
+                font-family: 'Roboto Slab', serif;
+                color: rgb(255, 255, 255);
+                text-shadow: 1px 1px rgb(0, 0, 0);
+               }
+
+               .gameimage8{
+                  position: absolute;
+                   margin-top: 136%;
+                   left: 57%;
+                   font-family: 'Roboto Slab', serif;
+                   color: rgb(255, 255, 255);
+                   text-shadow: 1px 1px rgb(0, 0, 0);
+                  }
             /* Portfolio end */
 
-/* .info1{
-   border: 3px solid #fff;
-} 
+
 
 .area {
     background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);

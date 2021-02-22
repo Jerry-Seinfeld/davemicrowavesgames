@@ -9,9 +9,6 @@
      padding-left: 46rem;
 }
 
-button{
-    margin-left: 0px;
-}
 
 /* .logo img {
     position: absolute;
@@ -68,8 +65,8 @@ h1{
 }
 
  p{
-    color: #d4d0e7;
-    text-align: center;
+        color: #d4d0e7;
+        text-align: center;
     position: absolute;
     padding-top: 250px;
     padding-left: 500px;
