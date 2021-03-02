@@ -7,21 +7,268 @@
 .navbar{
      margin-top: -1px;  
     /* border-bottom: 1px solid rgb(31, 105, 165); */
-     padding-left: 46rem
+     padding-left: 46rem;
 }
 /* navbar end */
 
+.link{
+   position: relative;
+   bottom: 40%;
+   right: 3.5%;
+}
+
+.link2{
+   position: relative;
+   bottom: 20%;
+   right: 6.6%;
+}
+
+.link3{
+   position: relative;
+   top: 900%;
+   left: 38%;
+   
+}
+
+/* Hover effect begin */
+.content{
+   position: absolute;
+   top: 45%;
+   left:50%;
+   transform:translate(-50%, -50%);
+   color: #fff;
+   font-size: 28px;
+   font-family: 'Roboto Slab', serif;
+   text-shadow: 1px 1px rgb(0, 0, 0);
+}
+.gameimage1 .overlay{
+   position:absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   height: 100%;
+   width: 100%;
+   opacity: 0;
+   transition: .5s ease;
+   background: rgba(26, 140, 160, 0.466);
+}
+.gameimage2 .overlay{
+   position:absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   height: 100%;
+   width: 100%;
+   opacity: 0;
+   transition: .5s ease;
+   background: rgba(237, 238, 236, 0.301);
+}
+.gameimage3 .overlay{
+   position:absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   height: 100%;
+   width: 100%;
+   opacity: 0;
+   transition: .5s ease;
+   background: rgba(49, 59, 29, 0.493);
+}
+.gameimage4 .overlay{
+   position:absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   height: 100%;
+   width: 100%;
+   opacity: 0;
+   transition: .5s ease;
+   background: rgba(205, 240, 139, 0.342);
+}
+.gameimage5 .overlay{
+   position:absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   height: 100%;
+   width: 100%;
+   opacity: 0;
+   transition: .5s ease;
+   background: rgba(24, 16, 92, 0.397);
+}
+.gameimage6 .overlay{
+   position:absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   height: 100%;
+   width: 100%;
+   opacity: 0;
+   transition: .5s ease;
+   background: rgba(5, 77, 73, 0.356);
+}
+.gameimage7 .overlay{
+   position:absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   height: 100%;
+   width: 100%;
+   opacity: 0;
+   transition: .5s ease;
+   background: rgba(151, 47, 6, 0.295);
+}
+.gameimage8 .overlay{
+   position:absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   height: 100%;
+   width: 100%;
+   opacity: 0;
+   transition: .5s ease;
+   background: rgba(125, 214, 90, 0.315);
+}
+.gameimage9 .overlay{
+   position:absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   height: 100%;
+   width: 100%;
+   opacity: 0;
+   transition: .5s ease;
+   background: rgba(63, 14, 5, 0.466);
+}
+.gameimage10 .overlay{
+   position:absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   height: 100%;
+   width: 100%;
+   opacity: 0;
+   transition: .5s ease;
+   background: rgba(63, 33, 15, 0.466);
+}
+.gameimage11 .overlay{
+   position:absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   height: 100%;
+   width: 100%;
+   opacity: 0;
+   transition: .5s ease;
+   background: rgba(129, 163, 35, 0.295);
+}
+.gameimage12 .overlay{
+   position:absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   height: 100%;
+   width: 100%;
+   opacity: 0;
+   transition: .5s ease;
+   background: rgba(174, 175, 175, 0.295);
+}
+.gameimage13 .overlay{
+   position:absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   height: 100%;
+   width: 100%;
+   opacity: 0;
+   transition: .5s ease;
+   background: rgba(208, 163, 228, 0.288);
+}
+.gameimage14 .overlay{
+   position:absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   height: 100%;
+   width: 100%;
+   opacity: 0;
+   transition: .5s ease;
+   background: rgba(10, 10, 10, 0.596);
+}
+.gameimage15 .overlay{
+   position:absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   height: 100%;
+   width: 100%;
+   opacity: 0;
+   transition: .5s ease;
+   background: rgba(25, 87, 17, 0.322);
+}
+.gameimage16 .overlay{
+   position:absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   height: 100%;
+   width: 100%;
+   opacity: 0;
+   transition: .5s ease;
+   background: rgba(4, 143, 108, 0.466);
+}
+.gameimage17 .overlay{
+   position:absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   height: 100%;
+   width: 100%;
+   opacity: 0;
+   transition: .5s ease;
+   background: rgba(243, 7, 7, 0.205);
+}
+.gameimage18 .overlay{
+   position:absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   height: 100%;
+   width: 100%;
+   opacity: 0;
+   transition: .5s ease;
+   background: rgba(145, 10, 111, 0.26);
+}
+/* Hover effect end */
 
  .dave {
-   padding-left: 44%;
+   padding-left: 42.5%;
    padding-top: 4%;   
 }  
 /* Portfolio Begin */
 
 .mygames{
    position: absolute;
-   right: 35%;
-   bottom: 70%;
+   right: 36%;
+   bottom: 75%;
    color: rgb(255, 255, 254);
    font-family: 'Bungee Shade', cursive;
     letter-spacing: 1px;
@@ -32,74 +279,218 @@
 
 .gameimage1 {
    position: absolute;
-    margin-top: 51%;
+    margin-top: 35%;
     left: 1%;
     font-family: 'Roboto Slab', serif;
     color: rgb(255, 255, 255);
     text-shadow: 1px 1px rgb(0, 0, 0);
 }
+.gameimage1:hover .overlay{
+   opacity: 1;
+}
+
 .gameimage2{
    position: absolute;
-    margin-top: 51%;
+    margin-top: 35%;
     left: 57%;
     font-family: 'Roboto Slab', serif;
     color: rgb(255, 255, 255);
     text-shadow: 1px 1px rgb(0, 0, 0); 
 }
+.gameimage2:hover .overlay{
+   opacity: 1;
+}
 
 .gameimage3{
    position: absolute;
-    margin-top: 6%;
+    margin-top: 10%;
     left: 1%;
     font-family: 'Roboto Slab', serif;
     color: rgb(255, 255, 255);
     text-shadow: 1px 1px rgb(0, 0, 0);
    }
+   .gameimage3:hover .overlay{
+      opacity: 1;
+   }
 
    .gameimage4{
       position: absolute;
-       margin-top: 6%;
+       margin-top: 10%;
        left: 57%;
        font-family: 'Roboto Slab', serif;
        color: rgb(255, 255, 255);
        text-shadow: 1px 1px rgb(0, 0, 0);
       }
+      .gameimage4:hover .overlay{
+         opacity: 1;
+      }
 
       .gameimage5{
          position: absolute;
-          margin-top: 101%;
+          margin-top: 60%;
           left: 1%;
           font-family: 'Roboto Slab', serif;
           color: rgb(255, 255, 255);
           text-shadow: 1px 1px rgb(0, 0, 0);
          }
+         .gameimage5:hover .overlay{
+            opacity: 1;
+         }
 
          .gameimage6{
             position: absolute;
-             margin-top: 101%;
+             margin-top: 60%;
              left: 57%;
              font-family: 'Roboto Slab', serif;
              color: rgb(255, 255, 255);
              text-shadow: 1px 1px rgb(0, 0, 0);
             }
+            .gameimage6:hover .overlay{
+               opacity: 1;
+            }
 
             .gameimage7{
                position: absolute;
-                margin-top: 136%;
+                margin-top: 85%;
                 left: 1%;
                 font-family: 'Roboto Slab', serif;
                 color: rgb(255, 255, 255);
                 text-shadow: 1px 1px rgb(0, 0, 0);
                }
+               .gameimage7:hover .overlay{
+                  opacity: 1;
+               }
 
                .gameimage8{
                   position: absolute;
-                   margin-top: 136%;
+                   margin-top: 85%;
                    left: 57%;
                    font-family: 'Roboto Slab', serif;
                    color: rgb(255, 255, 255);
                    text-shadow: 1px 1px rgb(0, 0, 0);
                   }
+                  .gameimage8:hover .overlay{
+                     opacity: 1;
+                  }
+
+                  .gameimage9{
+                     position: absolute;
+                      margin-top: 110%;
+                      left: 1%;
+                      font-family: 'Roboto Slab', serif;
+                      color: rgb(255, 255, 255);
+                      text-shadow: 1px 1px rgb(0, 0, 0);
+                     }
+                     .gameimage9:hover .overlay{
+                        opacity: 1;
+                     }
+
+                     .gameimage10{
+                        position: absolute;
+                         margin-top: 110%;
+                         left: 57%;
+                         font-family: 'Roboto Slab', serif;
+                         color: rgb(255, 255, 255);
+                         text-shadow: 1px 1px rgb(0, 0, 0);
+                        }
+                        .gameimage10:hover .overlay{
+                           opacity: 1;
+                        }
+
+                        .gameimage11{
+                           position: absolute;
+                            margin-top: 135%;
+                            left: 1%;
+                            font-family: 'Roboto Slab', serif;
+                            color: rgb(255, 255, 255);
+                            text-shadow: 1px 1px rgb(0, 0, 0);
+                           }
+                           .gameimage11:hover .overlay{
+                              opacity: 1;
+                           }
+
+                           .gameimage12{
+                              position: absolute;
+                               margin-top: 135%;
+                               left: 57%;
+                               font-family: 'Roboto Slab', serif;
+                               color: rgb(255, 255, 255);
+                               text-shadow: 1px 1px rgb(0, 0, 0);
+                              }
+                              .gameimage12:hover .overlay{
+                                 opacity: 1;
+                              }
+
+                              .gameimage13{
+                                 position: absolute;
+                                  margin-top: 160%;
+                                  left: 1%;
+                                  font-family: 'Roboto Slab', serif;
+                                  color: rgb(255, 255, 255);
+                                  text-shadow: 1px 1px rgb(0, 0, 0);
+                                 }
+                                 .gameimage13:hover .overlay{
+                                    opacity: 1;
+                                 }
+
+                                 .gameimage14{
+                                    position: absolute;
+                                     margin-top: 160%;
+                                     left: 57%;
+                                     font-family: 'Roboto Slab', serif;
+                                     color: rgb(255, 255, 255);
+                                     text-shadow: 1px 1px rgb(0, 0, 0);
+                                    }
+                                    .gameimage14:hover .overlay{
+                                       opacity: 1;
+                                    }
+
+                                    .gameimage15{
+                                       position: absolute;
+                                        margin-top: 185%;
+                                        left: 1%;
+                                        font-family: 'Roboto Slab', serif;
+                                        color: rgb(255, 255, 255);
+                                        text-shadow: 1px 1px rgb(0, 0, 0);
+                                       }
+                                       .gameimage15:hover .overlay{
+                                          opacity: 1;
+                                       }
+
+                                       .gameimage16{
+                                          position: absolute;
+                                           margin-top: 185%;
+                                           left: 57%;
+                                           font-family: 'Roboto Slab', serif;
+                                           color: rgb(255, 255, 255);
+                                           text-shadow: 1px 1px rgb(0, 0, 0);
+                                          }
+                                          .gameimage16:hover .overlay{
+                                             opacity: 1;
+                                          }
+
+                                          .gameimage17{
+                                             position: absolute;
+                                              margin-top: 210%;
+                                              left: 1%;
+                                              font-family: 'Roboto Slab', serif;
+                                              color: rgb(255, 255, 255);
+                                              text-shadow: 1px 1px rgb(0, 0, 0);
+                                             }
+                                             .gameimage17:hover .overlay{
+                                                opacity: 1;
+                                             }
+                                             .gameimage18{
+                                                position: absolute;
+                                                 margin-top: 210%;
+                                                 left: 57%;
+                                                 font-family: 'Roboto Slab', serif;
+                                                 color: rgb(255, 255, 255);
+                                                 text-shadow: 1px 1px rgb(0, 0, 0);
+                                                }
+                                                .gameimage18:hover .overlay{
+                                                   opacity: 1;
+                                                }
             /* Portfolio end */
 
 
@@ -231,7 +622,7 @@
 
 body{
     width: 100%;
-    height: 200vh;
+    height: 230vh;
     background: linear-gradient(-45deg, #ee7753, #100446, #020708, #2d0942);
     background-size: 400% 400%;
     position: relative;
@@ -240,6 +631,12 @@ body{
       background-attachment: scroll;   
     /* background end */
 }
+
+.link  {
+   padding-top: 50px;
+  padding-left: 60px; 
+  
+}  
 
 .footer {
    color: rgb(255, 255, 255);
