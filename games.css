@@ -25,7 +25,7 @@
 
 .link3{
    position: relative;
-   top: 900%;
+   top: 930%;
    left: 38%;
    
 }
@@ -280,7 +280,7 @@
 .gameimage1 {
    position: absolute;
     margin-top: 35%;
-    left: 1%;
+    left: 18%;
     font-family: 'Roboto Slab', serif;
     color: rgb(255, 255, 255);
     text-shadow: 1px 1px rgb(0, 0, 0);
@@ -292,7 +292,7 @@
 .gameimage2{
    position: absolute;
     margin-top: 35%;
-    left: 57%;
+    left: 50%;
     font-family: 'Roboto Slab', serif;
     color: rgb(255, 255, 255);
     text-shadow: 1px 1px rgb(0, 0, 0); 
@@ -304,7 +304,7 @@
 .gameimage3{
    position: absolute;
     margin-top: 10%;
-    left: 1%;
+    left: 18%;
     font-family: 'Roboto Slab', serif;
     color: rgb(255, 255, 255);
     text-shadow: 1px 1px rgb(0, 0, 0);
@@ -316,7 +316,7 @@
    .gameimage4{
       position: absolute;
        margin-top: 10%;
-       left: 57%;
+       left: 50%;
        font-family: 'Roboto Slab', serif;
        color: rgb(255, 255, 255);
        text-shadow: 1px 1px rgb(0, 0, 0);
@@ -328,7 +328,7 @@
       .gameimage5{
          position: absolute;
           margin-top: 60%;
-          left: 1%;
+          left: 18%;
           font-family: 'Roboto Slab', serif;
           color: rgb(255, 255, 255);
           text-shadow: 1px 1px rgb(0, 0, 0);
@@ -340,7 +340,7 @@
          .gameimage6{
             position: absolute;
              margin-top: 60%;
-             left: 57%;
+             left: 50%;
              font-family: 'Roboto Slab', serif;
              color: rgb(255, 255, 255);
              text-shadow: 1px 1px rgb(0, 0, 0);
@@ -352,7 +352,7 @@
             .gameimage7{
                position: absolute;
                 margin-top: 85%;
-                left: 1%;
+                left: 18%;
                 font-family: 'Roboto Slab', serif;
                 color: rgb(255, 255, 255);
                 text-shadow: 1px 1px rgb(0, 0, 0);
@@ -364,7 +364,7 @@
                .gameimage8{
                   position: absolute;
                    margin-top: 85%;
-                   left: 57%;
+                   left: 50%;
                    font-family: 'Roboto Slab', serif;
                    color: rgb(255, 255, 255);
                    text-shadow: 1px 1px rgb(0, 0, 0);
@@ -376,7 +376,7 @@
                   .gameimage9{
                      position: absolute;
                       margin-top: 110%;
-                      left: 1%;
+                      left: 18%;
                       font-family: 'Roboto Slab', serif;
                       color: rgb(255, 255, 255);
                       text-shadow: 1px 1px rgb(0, 0, 0);
@@ -388,7 +388,7 @@
                      .gameimage10{
                         position: absolute;
                          margin-top: 110%;
-                         left: 57%;
+                         left: 50%;
                          font-family: 'Roboto Slab', serif;
                          color: rgb(255, 255, 255);
                          text-shadow: 1px 1px rgb(0, 0, 0);
@@ -400,7 +400,7 @@
                         .gameimage11{
                            position: absolute;
                             margin-top: 135%;
-                            left: 1%;
+                            left: 18%;
                             font-family: 'Roboto Slab', serif;
                             color: rgb(255, 255, 255);
                             text-shadow: 1px 1px rgb(0, 0, 0);
@@ -412,7 +412,7 @@
                            .gameimage12{
                               position: absolute;
                                margin-top: 135%;
-                               left: 57%;
+                               left: 50%;
                                font-family: 'Roboto Slab', serif;
                                color: rgb(255, 255, 255);
                                text-shadow: 1px 1px rgb(0, 0, 0);
@@ -424,7 +424,7 @@
                               .gameimage13{
                                  position: absolute;
                                   margin-top: 160%;
-                                  left: 1%;
+                                  left: 18%;
                                   font-family: 'Roboto Slab', serif;
                                   color: rgb(255, 255, 255);
                                   text-shadow: 1px 1px rgb(0, 0, 0);
@@ -436,7 +436,7 @@
                                  .gameimage14{
                                     position: absolute;
                                      margin-top: 160%;
-                                     left: 57%;
+                                     left: 50%;
                                      font-family: 'Roboto Slab', serif;
                                      color: rgb(255, 255, 255);
                                      text-shadow: 1px 1px rgb(0, 0, 0);
@@ -448,7 +448,7 @@
                                     .gameimage15{
                                        position: absolute;
                                         margin-top: 185%;
-                                        left: 1%;
+                                        left: 18%;
                                         font-family: 'Roboto Slab', serif;
                                         color: rgb(255, 255, 255);
                                         text-shadow: 1px 1px rgb(0, 0, 0);
@@ -460,7 +460,7 @@
                                        .gameimage16{
                                           position: absolute;
                                            margin-top: 185%;
-                                           left: 57%;
+                                           left: 50%;
                                            font-family: 'Roboto Slab', serif;
                                            color: rgb(255, 255, 255);
                                            text-shadow: 1px 1px rgb(0, 0, 0);
@@ -472,7 +472,7 @@
                                           .gameimage17{
                                              position: absolute;
                                               margin-top: 210%;
-                                              left: 1%;
+                                              left: 18%;
                                               font-family: 'Roboto Slab', serif;
                                               color: rgb(255, 255, 255);
                                               text-shadow: 1px 1px rgb(0, 0, 0);
@@ -483,7 +483,7 @@
                                              .gameimage18{
                                                 position: absolute;
                                                  margin-top: 210%;
-                                                 left: 57%;
+                                                 left: 50%;
                                                  font-family: 'Roboto Slab', serif;
                                                  color: rgb(255, 255, 255);
                                                  text-shadow: 1px 1px rgb(0, 0, 0);
